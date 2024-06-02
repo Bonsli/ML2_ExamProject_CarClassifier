@@ -8,7 +8,7 @@ This project aims to create a foundational application that can identify the mak
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.12.1
 - Java Development Kit (JDK)
 - Apache Maven
 - Node.js (optional, if you have any front-end dependencies that require it)
@@ -112,14 +112,4 @@ To compare the human responses with the model's predictions:
     Run button in VSCode while bein in `calculation.py`. 
 
 3. The script will output the accuracy comparison between human responses and the model's predictions and generate a bar chart for visual comparison.
-
-## Detailed Steps for Each Component
-
-### Conclusion
-
-This README provides a comprehensive guide to setting up, running, and understanding the Car Brand Classification project. Follow the steps outlined to replicate the project, from data collection to model training and validation.
-
-## Repository
-
-Include the link to the project repository and any additional instructions for running the code here. For example:
 
